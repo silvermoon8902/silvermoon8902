@@ -11,5 +11,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div align="center">
+
+  ----
+  | In detail | Language Overview |
+  |-----------|--------------------|
+  | ![Contributions](https://streak-stats.demolab.com?user=silvermoon8902&theme=tokyonight) | ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=silvermoon8902&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=4) |
+  ---
+</div>
+
+<img src="https://github-profile-trophy.vercel.app/?username=silvermoon8902" alt="silvermoon8902" />
 
 This is profile readme.md file.
