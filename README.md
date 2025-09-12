@@ -14,25 +14,6 @@
 
 ---
 
-## 🚀 About Me
-
-```typescript
-const edwin: Developer = {
-  location: "Pennsylvania, USA",
-  experience: "10+ years",
-  specialties: ["Full Stack Development", "Cloud Architecture", "AI/ML Integration"],
-  currentRole: "Senior Full Stack Developer @ Pratt & Whitney",
-  achievements: {
-    performanceBoosts: "45.7% faster load times",
-    costReduction: "28.2% infrastructure cost savings",
-    teamVelocity: "38.5% increase in developer velocity",
-    uptime: "99.9% system reliability"
-  },
-  military: "Army National Guard - Petroleum Supply Specialist (2016-Present)",
-  education: ["MS Computer Science", "BS Computer Science (Cum Laude)"]
-};
-```
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -74,60 +55,6 @@ const edwin: Developer = {
 | **Bug Reduction** | 38% fewer regressions |
 
 </div>
-
-## 💼 Professional Journey
-
-<details>
-<summary><strong>🛩️ Senior Full Stack Developer @ Pratt & Whitney (Feb 2023 - Mar 2025)</strong></summary>
-
-- **Aviation Systems Analytics**: Built secure monitoring tools processing 75,000+ daily records
-- **Real-time Dashboards**: Achieved 2.3x diagnostic accuracy improvement
-- **Cloud Architecture**: Deployed scalable microservices reducing costs by 28.2%
-- **API Integration**: Unified GraphQL/REST increasing team velocity by 38.5%
-- **CI/CD Excellence**: 92% test coverage, 38% bug reduction
-
-</details>
-
-<details>
-<summary><strong>💰 Senior Full Stack Developer @ Rx Marketing (Sept 2019 - Oct 2022)</strong></summary>
-
-- **Fintech Solutions**: Developed conversion-optimized portals (29.4% increase)
-- **High-Volume Processing**: Handled 1.2M+ monthly transactions with SOC 2 compliance
-- **Data Pipeline Optimization**: Reduced lead sync time by 63.8%
-- **Deployment Excellence**: Achieved 99.9% uptime with 50% faster rollouts
-
-</details>
-
-<details>
-<summary><strong>🏦 Backend Engineer @ Prudential Financial (Feb 2017 - Aug 2019)</strong></summary>
-
-- **Enterprise Scale**: Supported 200K+ concurrent users
-- **Microservices Migration**: Enabled 6x faster deployments
-- **Security & Compliance**: SOC 2 and HIPAA compliant systems
-- **ETL Mastery**: Processed 12M+ daily records with <0.01% failure rate
-
-</details>
-
-## 🎖️ Military Service
-
-**Petroleum Supply Specialist - Army National Guard (2016 - Present)**
-- 🏅 **Humanitarian Service Medal** recipient for Hurricane Maria relief efforts
-- ⛽ Fuel logistics and inventory management specialist
-- 🚨 Emergency response operations leadership
-- 🇵🇷 Supporting Puerto Rico National Guard operations
-
-## 🎓 Education
-
-```
-🎓 Master of Science in Computer Science
-   Full Sail University, Winter Park, FL (2022)
-
-🎓 Bachelor of Science in Computer Science  
-   Full Sail University, Winter Park, FL (2021)
-
-🎓 Bachelor of Science in Computer Science (Cum Laude)
-   Universidad Interamericana de Puerto Rico (2016)
-```
 
 ## 📈 GitHub Analytics
 
